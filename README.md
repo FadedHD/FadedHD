@@ -10,8 +10,6 @@ Yes, this is my readme :3
 <p align="">
 <img src="https://fadedhd.com/IMG/Github/README/C.png" width="64" alt="Logo"> <img src="https://fadedhd.com/IMG/Github/README/C++.png" width="58" alt="Logo"> <img src="https://fadedhd.com/IMG/Github/README/Python.png" width="58" alt="Logo">
 <img src="https://fadedhd.com/IMG/Github/README/HTML.png" width="63" alt="Logo"> <img src="https://fadedhd.com/IMG/Github/README/CSS.png" width="45" alt="Logo"> <img src="https://fadedhd.com/IMG/Github/README/JS.png" width="52" alt="Logo">
-<img src="https://fadedhd.com/IMG/Github/README/JAVA.png" width="63" alt="Logo">
-
 
 
 
