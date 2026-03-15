@@ -21,10 +21,10 @@
 ### OS Distributions
 
 | Icon | OS | Why im using this? |
-|------|--------------------------|------------------------------------------------------------------------------------------------------|
+|------|-------------------------|-------------------------------------------------------------------------------------------------------|
 | <img src="https://fadedhd.com/IMG/Github/README/arch.png" width="30" alt="Logo"> | Arch Linux | Lightweight, Hyprland, Customizations, Programming, Controll |
 | <img src="https://fadedhd.com/IMG/Github/README/ubuntu.png" width="30" alt="Logo"> | Ubuntu Server | Nas, Jellyfin, E-Mail Client, ExplosiveSPRX Chat Hosting, Minecraft |
-| <img src="https://fadedhd.com/IMG/Github/README/windows.png" width="30" alt="Logo"> | Windows 11 IoT LTSC | Gaming, SDKs, More Support, |
+| <img src="https://fadedhd.com/IMG/Github/README/windows.png" width="30" alt="Logo"> | Windows 11 IoT LTSC | Gaming, SDKs, More Support |
 
 ##
 </div>
