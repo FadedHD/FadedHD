@@ -32,7 +32,7 @@
 
 | Icon | Projects | My Goals |
 |------|-------------------------|------------------------------------------------------------------|
-| <img src="https://fadedhd.com/IMG/Github/README/tux.png" width="30" alt="Logo"> | PS4Linux | Improve Linux kernel patches, GPU drivers & stability work for the PlayStation 4 |
+| <img src="https://fadedhd.com/IMG/Github/README/tux.png" width="30" alt="Logo"> | PS5Linux | Improve Linux kernel patches, GPU drivers & stability work for the PlayStation 4 |
 | <img src="https://fadedhd.com/IMG/Github/README/t2linux.png" width="30" alt="Logo"> | T2Linux | Trying to build a user-friendly installers (inspired by t2install) easier setup for T2Linux + Hyprland tweaks and improvements |
 
 ##
