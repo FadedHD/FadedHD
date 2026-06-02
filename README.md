@@ -13,7 +13,7 @@
 ### 🐛Programming Languages
 <p align="">
 <img src="https://fadedhd.com/IMG/Github/README/C.png" width="64" alt="Logo"> <img src="https://fadedhd.com/IMG/Github/README/C++.png" width="58" alt="Logo"> <img src="https://fadedhd.com/IMG/Github/README/Python.png" width="58" alt="Logo">
-<img src="https://fadedhd.com/IMG/Github/README/html_small.png" width="45" alt="Logo"> <img src="https://fadedhd.com/IMG/Github/README/CSS_small.png" width="45" alt="Logo"> <img src="https://fadedhd.com/IMG/Github/README/JS_small.png" width="52" alt="Logo">
+<img src="https://fadedhd.com/IMG/Github/README/html_small.png" width="45" alt="Logo"> <img src="https://fadedhd.com/IMG/Github/README/CSS_small.png" width="45" alt="Logo"> <img src="https://fadedhd.com/IMG/Github/README/js.png" width="52" alt="Logo">
 <img src="https://fadedhd.com/IMG/Github/README/Nodejs.png" width="90" alt="Logo"> <img src="https://fadedhd.com/IMG/Github/README/java_coffee.png" width="55" alt="Logo">
 
 ##
